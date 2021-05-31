@@ -1,0 +1,14 @@
+{
+  "name": "shazam",
+  "version": "1.0.0",
+  "description": "just a clone of shazam app",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
